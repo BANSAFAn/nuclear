@@ -5,25 +5,25 @@
 
 ![Showcase](https://i.imgur.com/8qHu66J.png)
 
-# Ссылки
+# Посилання
 
-[Официальный сайт](https://nuclear.js.org)
+[Офіційний сайт](https://nuclear.js.org)
 
-[Скачать](https://github.com/nukeop/nuclear/releases)
+[Завантажити](https://github.com/nukeop/nuclear/releases)
 
-[Документация](https://nukeop.gitbook.io/nuclear/)
+[Документація](https://nukeop.gitbook.io/nuclear/)
 
 [Mastodon](https://fosstodon.org/@nuclearplayer)
 
-[Twitter](https://twitter.com/nuclear_player)
+[Twitter] (https://twitter.com/nuclear_player)
 
-Канал поддержки (Matrix): `#nuclear:matrix.org`
+Канал підтримки (Matrix): `#nuclear:matrix.org`
 
 Discord чат: https://discord.gg/JqPjKxE
 
-Предлагайте и голосуйте за новые функции здесь: https://nuclear.featureupvote.com/
+Пропонуйте та голосуйте за нові функції тут: https://nuclear.featureupvote.com/
 
-Переводы документации:
+Переклад документації:
 
 <kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](docs/README-de.md)</kbd>
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](docs/README-ptbr.md)</kbd>
@@ -39,47 +39,46 @@ Discord чат: https://discord.gg/JqPjKxE
 <kbd>[<img title="Russian" alt="Russian" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](docs/README-ru.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](docs/README-pl.md)</kbd>
 
-## Что это?
-Nuclear - это бесплатная программа для потоковой передачи музыки, которая извлекает контент из бесплатных источников по всему Интернету.
+## Що це?
+Nuclear - це безкоштовна програма для потокової передачі музики, яка отримує контент з безкоштовних джерел по всьому Інтернету.
 
-Если вы знакомы с [mps-youtube](https://github.com/mps-youtube/mps-youtube), то это похожий музыкальный проигрыватель, но с графическим интерфейсом.
-Он также больше специализируется на аудио. Представьте себе Spotify с большой библиотекой за который не нужно платить.
+Якщо ви знайомі з [mps-youtube](https://github.com/mps-youtube/mps-youtube), це схожий музичний програвач, але з графічним інтерфейсом.
+Він також більше спеціалізується на аудіо. Уявіть Spotify з великою бібліотекою за який не потрібно платити.
 
-## Что если мне не нравится Electron?
-Посмотрите [здесь](docs/electron-ru.md).
+## Що якщо мені не подобається Electron?
+Подивіться [тут](docs/electron-ru.md).
 
-## Особенности
+## Особливості
 
-- Поиск и воспроизведение музыки с YouTube (включая интеграцию с плейлистами, а также [Sponsor Block](https://sponsor.ajay.app/), Jamendo, Audius и SoundCloud)
-- Функция поиска альбомов (на основе Last.fm и Discogs), просмотра альбомов, автоматического поиска песен по исполнителю и названию трека (в разработке, иногда может не работать)
-- Очередность песен, можно экспортировать в виде плейлиста
-- Загружать сохраненные плейлисты (хранятся в файлах формата json)
-- Синхронизация с last.fm (также обновляет статус «Исполняется»)
-- Новейшие релизы с обзорами - треки и альбомы
-- Поиск по жанрам
-- Режим радио (автоматически подбирает похожие треки)
-- Неограниченное количество загрузок (на основе YouTube)
-- Отображение текстов песен в реальном времени
-- Поиск по популярности
-- Список любимых треков
-- Прослушивание песен из локальной библиотеки
-- Нет необходимости в аккаунте
-- Без рекламы
-- Без CoC (Кодекса поведения)
-- Без CLA (Лицензионного соглашения с пользователем)
+- Пошук та відтворення музики з YouTube (включаючи інтеграцію з плейлистами, а також [Sponsor Block](https://sponsor.ajay.app/), Jamendo, Audius та SoundCloud)
+- Функція пошуку альбомів (на основі Last.fm та Discogs), перегляду альбомів, автоматичного пошуку пісень за виконавцем та назвою треку (у розробці, іноді може не працювати)
+- Черговість пісень, можна експортувати у вигляді плейлиста
+- Завантажувати збережені плейлисти (зберігаються у файлах формату json)
+- Синхронізація з last.fm (також оновлює статус «Виконується»)
+- Нові релізи з оглядами - треки та альбоми
+- Пошук за жанрами
+- режим радіо (автоматично підбирає схожі треки)
+- Необмежену кількість завантажень (на основі YouTube)
+- Відображення текстів пісень у реальному часі
+- Пошук за популярністю
+- Список улюблених треків
+- Прослуховування пісень із локальної бібліотеки
+- Немає необхідності в акаунті
+- Без реклами
+- Без CoC (Кодексу поведінки)
+- Без CLA (Ліцензійної угоди з користувачем)
 
-## Процесс разработки
+## Процес розробки
 
-Во-первых, убедитесь что вы прочли [Contribution Guidelines](https://nukeop.gitbook.io/nuclear/contributing/contribution-guidelines).
+По-перше, переконайтеся, що ви прочитали [Contribution Guidelines](https://nukeop.gitbook.io/nuclear/contributing/contribution-guidelines).
 
-Инструкцию по запуску Nuclear в режиме разработки можно найти в документации [Development Process](https://nukeop.gitbook.io/nuclear/developer-resources/development-process).
+Інструкцію із запуску Nuclear в режимі розробки можна знайти в документації [Development Process](https://nukeop.gitbook.io/nuclear/developer-resources/development-process).
 
-## Пакеты, поддерживаемые сообществом
-
+## Пакети, що підтримуються спільнотою
 Ниже приведен список пакетов, используемых в различных менеджерах пакетов, некоторые из которых поддерживаются сторонними мейнтейнерами и имеют открытый исходный код.
 Мы бы хотели искренне поблагодарить их за вклад в развитие.
 
-|   Тип пакета   |                               Ссылка                               |                        Мейнтейнер                         |                Метод установки                 |
+|   Тип пакета   |                            Посилання                               |                        Мейнтейнер                         |             Метод встановлення                 |
 |:--------------:|:------------------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------:|
 |   AUR (Arch)   |       https://aur.archlinux.org/packages/nuclear-player-bin/       |            [nukeop](https://github.com/nukeop)            |           yay -s nuclear-player-bin            |
 |   AUR (Arch)   |       https://aur.archlinux.org/packages/nuclear-player-git        |            [nukeop](https://github.com/nukeop)            |           yay -s nuclear-player-git            |
